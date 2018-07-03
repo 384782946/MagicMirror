@@ -1,7 +1,7 @@
 var config = {
     lang: 'zh_cn',
     time: {
-        timeFormat: 12,
+        timeFormat: 24,
         displaySeconds: true,
         digitFade: false,
     },
@@ -11,7 +11,7 @@ var config = {
         interval: 120000,
         fadeInterval: 10000,
         params: {
-            q: 'beijing',
+            q: 'Beijing',
             units: 'metric',
             // if you want a different lang for the weather that what is set above, change it here
             lang: 'zh_cn',
