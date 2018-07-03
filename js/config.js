@@ -73,6 +73,6 @@ var config = {
 		]
     },
     news: {
-        feed: 'http://headlines.yahoo.co.jp/rss/zdn_ait-c_sci.xml'
+        feed: 'https://www.zhihu.com/rss'
     }
 }
