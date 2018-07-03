@@ -11,11 +11,11 @@ var config = {
         interval: 120000,
         fadeInterval: 10000,
         params: {
-            q: 'dalian',
+            q: 'beijing',
             units: 'metric',
             // if you want a different lang for the weather that what is set above, change it here
             lang: 'zh_cn',
-            APPID: ''
+            APPID: '7ce68177ff3926af3f93f0d2aec9a288'
         }
     },
     tem_hum: {
